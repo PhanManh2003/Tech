@@ -1,0 +1,3 @@
+- Go to Apache > Config > Apache (httpd.conf) and find Listen 80. 
+- Replace it with any non-blocked port, i.e. Listen 8087.
+- Save the file and start Apache again.

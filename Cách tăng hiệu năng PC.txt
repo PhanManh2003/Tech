@@ -1,0 +1,7 @@
+1. Vào advanced system setting ở visual effect chỉ tích 2 ô: show thumbnail và show edges
+2. Tắt windows update trong computer management mục services
+3. Cho cpu đạt tối đa số core bằng msconfig và set power plan high performance
+4. Tắt các ứng dụng chạy ngầm ở background apps và các tính năng không cần thiết
+5. Tắt gamemode và bật hardware-accelerated gpu scheduling trong Graphics settings
+6. Setting lại card đồ họa 
+7. Bật ảo hóa

@@ -1,0 +1,9 @@
+Cách 1: Chạy PHP trên localhost với xampp ( cái này ko phải dạy)
+ 
+
+Cách 2: Chạy PHP trên VScode ko cần Xampp 
+- Tải trình biên dịch PHP về
+- Cài extension PHP intelephense, debug, ...
+- cài extension PHP Server:
+	+ Vào setting của nó thêm đường dẫn đến thư mục php.exe
+- Add đường dẫn tới thư mục chứa php.exe vào system variable

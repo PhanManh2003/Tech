@@ -1,0 +1,4 @@
+- Chạy tomcat bằng "Start with debug"
+- Nếu thấy IDE netbean chạy với phiên bản jdk cũ thì sửa như sau:
+	1. Vào C:\Program Files\NetBeans-17\netbeans\etc\netbeans.config
+	2. Sửa dòng netbeans_jdkhome="C:\Program Files\Java\jdk1.7xxxxx" thành mục lưu trữ phiên bản jdk phù hợp

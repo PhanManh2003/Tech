@@ -1,0 +1,13 @@
+- cài xong msys2 thì chạy lần lượt 3 câu lệnh:
+	pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+	pacman -Syu
+	pacman -Su
+	
+
+- xong thì add vào p system variable (ko phải user variable)
+
+- cài code runner và c++ extension
+
+- chọn chế độ run in terminal trong setting Visual Studio Code
+
+- Run thôi :)

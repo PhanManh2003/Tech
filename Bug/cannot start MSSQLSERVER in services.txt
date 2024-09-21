@@ -1,0 +1,1 @@
+go to cmd and run: netsh int ip reset resetlog.txt
